@@ -23,7 +23,7 @@ int main()
     cin >> stateTax;
     cout <<endl<<"Please enter the county  tax (as a decimal point): ";
     cin >> countyTax;
-    cout <<"/n What is the cost of the item you are purchasing?";
+    cout <<"\n What is the cost of the item you are purchasing?";
     cin >> itemCost;
 
 
